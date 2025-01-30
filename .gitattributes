@@ -1,0 +1,2 @@
+data/diagram.png filter=lfs diff=lfs merge=lfs -text
+data/diagram.xlsx filter=lfs diff=lfs merge=lfs -text
