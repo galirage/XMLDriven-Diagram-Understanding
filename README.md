@@ -24,7 +24,6 @@ In this project, we developed a Python package for extracting and analyzing meta
 
 
 ## 🌟 Highlights
-- **`2025-XX-XX`** Exciting news! **Our paper is accepted by XXXXX 🎉🎉!** 
 - **`2025-XX-XX`** Codes are now release🧑‍💻!
 - **`2025-XX-XX`** Our paper is available on [Arxiv](XXXXXX)📄!
 
