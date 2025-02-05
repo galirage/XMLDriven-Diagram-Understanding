@@ -1,20 +1,30 @@
+<!-- markdownlint-disable first-line-h1 -->
+<!-- markdownlint-disable html -->
+<!-- markdownlint-disable no-duplicate-header -->
+
+<div align="center">
+  <img src="./assets/galirage_logo.png" width="100%" alt="galirage_logo" />
+</div>
+<hr>
+
+
 # 🔭 Overcoming Vision Language Model Challenges in Diagram Understanding: A Proof-of-Concept with XML-Driven Large Language Models Solutions
+
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![arXiv](https://img.shields.io/badge/arXiv-Coming%20soon-red.svg)](https://arxiv.org/abs/your-paper-id)
 
-
 ## 🔍 Project Overview
 
-<img src="./assets/concept.png" width=80%>
+<img src="./assets/concept.png" width=100%>
 
 
 Traditional Vision-Language Models (VLMs) struggle to accurately interpret diagram structures in business documents. This project enables precise extraction and analysis of a system architecture diagram by directly retrieving structured metadata (shapes, lines, annotations) from editable source files, XML files of Excel (.xlsx). By converting this metadata into text for Large Language Models (LLMs), our approach eliminates the inaccuracies of image-based processing, allowing for more reliable business question answering and diagram comprehension.
 
 ## 🔗 Related Repository: 🔭📊 Spreadsheet Intelligence
 [![PyPI version](https://img.shields.io/pypi/v/your-package-name.svg)](https://pypi.org/project/your-package-name/)
-[![GitHub](https://img.shields.io/github/v/release/your-username/your-repo-name)](https://github.com/your-username/your-repo-name)
-[![API Reference](https://img.shields.io/badge/API-Reference-blue)](https://your-api-reference-link)
+[![GitHub](https://img.shields.io/github/v/release/galirage/spreadsheet-intelligence)](https://github.com/galirage/spreadsheet-intelligence)
+[![API Reference](https://img.shields.io/badge/API-Reference-blue)](https://galirage.github.io/spreadsheet-intelligence/)
 
 
 
