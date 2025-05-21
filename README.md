@@ -12,7 +12,7 @@
 
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![arXiv](https://img.shields.io/badge/arXiv-Coming%20soon-red.svg)](https://arxiv.org/abs/your-paper-id)
+[![arXiv](https://img.shields.io/badge/arXiv-2502.04389v1-blue.svg)](https://arxiv.org/html/2502.04389v1)
 
 ## 🔍 Project Overview
 
@@ -34,8 +34,8 @@ In this project, we developed a Python package for extracting and analyzing meta
 
 
 ## 🌟 Highlights
-- **`2025-XX-XX`** Codes are now release🧑‍💻!
-- **`2025-XX-XX`** Our paper is available on [Arxiv](XXXXXX)📄!
+- **`2025-02-05`** Codes are now released🧑‍💻!
+- **`2025-02-05`** Our paper is available on [Arxiv](https://arxiv.org/html/2502.04389v1)📄!
 
 
 ## 🚀 Getting Started
@@ -71,7 +71,7 @@ If you find our paper and codes useful, please kindly cite us via:
 @article{shiinoki2025overcoming,
   title={Overcoming Vision Language Model Challenges in Diagram Understanding: A Proof-of-Concept with XML-Driven Large Language Models Solutions},
   author={Shiinoki, Shue and Koshihara, Ryo and Motegi, Hayato and Morishige, Masumi},
-  journal={arXiv preprint arXiv:XXXXXXXXXXXXX},
+  journal={arXiv preprint arXiv:2502.04389v1},
   year={2025}
 }
 ```
