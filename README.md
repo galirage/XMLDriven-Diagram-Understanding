@@ -22,7 +22,7 @@
 Traditional Vision-Language Models (VLMs) struggle to accurately interpret diagram structures in business documents. This project enables precise extraction and analysis of a system architecture diagram by directly retrieving structured metadata (shapes, lines, annotations) from editable source files, XML files of Excel (.xlsx). By converting this metadata into text for Large Language Models (LLMs), our approach eliminates the inaccuracies of image-based processing, allowing for more reliable business question answering and diagram comprehension.
 
 ## 🔗 Related Repository: 🔭📊 Spreadsheet Intelligence
-[![PyPI version](https://img.shields.io/pypi/v/your-package-name.svg)](https://pypi.org/project/your-package-name/)
+[![PyPI version](https://img.shields.io/pypi/v/spreadsheet-intelligence.svg)](https://pypi.org/project/spreadsheet-intelligence/)
 [![GitHub](https://img.shields.io/github/v/release/galirage/spreadsheet-intelligence)](https://github.com/galirage/spreadsheet-intelligence)
 [![API Reference](https://img.shields.io/badge/API-Reference-blue)](https://galirage.github.io/spreadsheet-intelligence/)
 
@@ -41,10 +41,10 @@ In this project, we developed a Python package for extracting and analyzing meta
 ## 🚀 Getting Started
 ### 1. Requirements 📦
 
-For an optimal experience, we recommend using pipenv to set up a new environment for this project.
+We recommend using `uv` to set up a new environment for this project.
 
 ```bash
-pipenv install
+uv sync
 ```
 
 ### 2. Configuration ⚙️ 
@@ -56,11 +56,11 @@ Copy `.env.sample` to `.env` and set your API keys.
 
 Running experiment script of our approach is straightforward:
 ```bash
-pipenv run python src/main.py --w_xml
+uv run src/main.py --w_xml
 ```
 And you can also run the experiment with VLM-based approach (baseline comparison) with the following command:
 ```bash
-pipenv run python src/main.py --w_img
+uv run src/main.py --w_img
 ```
 
 

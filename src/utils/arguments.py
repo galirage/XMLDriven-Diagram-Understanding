@@ -20,7 +20,7 @@ def get_args():
     )
 
     parser.add_argument(
-        "--w_vision", action="store_true",
+        "--w_img", action="store_true",
         help="use vlm",
     )
 
